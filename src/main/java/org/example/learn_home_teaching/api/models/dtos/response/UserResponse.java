@@ -1,4 +1,4 @@
-package org.example.learn_home_teaching.api.models.dtos;
+package org.example.learn_home_teaching.api.models.dtos.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

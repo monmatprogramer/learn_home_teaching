@@ -1,7 +1,6 @@
 package org.example.learn_home_teaching.api.repositories;
 
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
+
 import org.example.learn_home_teaching.api.models.entities.User;
 import org.example.learn_home_teaching.api.models.entities.UserRole;
 import org.springframework.data.jpa.repository.JpaRepository;
